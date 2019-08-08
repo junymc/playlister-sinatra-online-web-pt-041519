@@ -1,7 +1,9 @@
 tags:
   - sinatra
-  - orm
+  - forms
+  - html
   - activerecord
 languages:
   - ruby
-resources: 2
+  - html
+resources: 0
